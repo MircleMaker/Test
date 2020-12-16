@@ -2,3 +2,6 @@
 啦啦啦啦啦啦啦啦
 
 哇哇哇哇哇啊哇哇
+
+Git has a mutable index called stage.
+Git tracks changes.
